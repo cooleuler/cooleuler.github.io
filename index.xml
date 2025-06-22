@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xxx&#39;s Blog</title>
-    <link>https://l4vender.github.io/</link>
+    <link>https://cooleuler.github.io/</link>
     <description>Recent content on xxx&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <atom:link href="https://l4vender.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cooleuler.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://l4vender.github.io/conference/</link>
+      <link>https://cooleuler.github.io/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://l4vender.github.io/conference/</guid>
+      <guid>https://cooleuler.github.io/conference/</guid>
       <description>&lt;p&gt;会议报告&lt;/p&gt;&#xA;&lt;p&gt;$$11$$&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://l4vender.github.io/courseware/</link>
+      <link>https://cooleuler.github.io/courseware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://l4vender.github.io/courseware/</guid>
+      <guid>https://cooleuler.github.io/courseware/</guid>
       <description>&lt;h1 id=&#34;课程1&#34;&gt;课程1&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;第一章：&lt;a href=&#34;../file_courseware/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87.pdf&#34;&gt;1.1&lt;/a&gt;test&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../file_courseware/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87.pdf&#34;&gt;第二章&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;课程2&#34;&gt;课程2&lt;/h1&gt;&#xA;&lt;p&gt;xxx()&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://l4vender.github.io/interest/</link>
+      <link>https://cooleuler.github.io/interest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://l4vender.github.io/interest/</guid>
+      <guid>https://cooleuler.github.io/interest/</guid>
       <description>&lt;p&gt;new page&lt;/p&gt;&#xA;&lt;h1 id=&#34;第一节&#34;&gt;第一节&lt;/h1&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://l4vender.github.io/paper/</link>
+      <link>https://cooleuler.github.io/paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://l4vender.github.io/paper/</guid>
-      <description>&lt;p&gt;论文&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../file/%E5%A6%82%E4%BD%95%E5%86%99%E5%A5%BD%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87.pdf&#34;&gt;如何写好科研论文&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.baidu.com&#34;&gt;xxxxx研究&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>https://cooleuler.github.io/paper/</guid>
+      <description>&lt;h2 id=&#34;paper-lists&#34;&gt;Paper Lists&lt;/h2&gt;&#xA;&lt;h3 id=&#34;year-2025&#34;&gt;Year 2025&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../file_paper/2025/rmj_2.pdf&#34;&gt;An answer to an open problems of Heckmann and $\mathcal U_s$-admitting spaces&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../file_paper/2025/math_structure.pdf&#34;&gt;The set of maximal points of an ω-domain need not be a&#xA;$G_{\delta}$-set&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../file_paper/2025/topol_appl.pdf&#34;&gt;The answers to two problems on maximal point spaces of domains&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;year-2024&#34;&gt;Year 2024&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.baidu.com&#34;&gt;xxxxx研究&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://l4vender.github.io/untitled/</link>
+      <link>https://cooleuler.github.io/untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://l4vender.github.io/untitled/</guid>
+      <guid>https://cooleuler.github.io/untitled/</guid>
       <description></description>
     </item>
   </channel>
